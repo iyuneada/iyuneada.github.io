@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyuneada.github.io/AEG/sitemap_index.txt
+Sitemap: https://iyuneada.github.io/LKi/sitemap_index.txt
+Sitemap: https://iyuneada.github.io/Zue/sitemap_index.txt
+Sitemap: https://iyuneada.github.io/kDJ/sitemap_index.txt
